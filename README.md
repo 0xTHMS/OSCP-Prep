@@ -11,6 +11,11 @@
 === PrivEsc ===
 - [FuzzySec PrivEsc](http://www.fuzzysecurity.com/tutorials/16.html)
 
+=== MetaSploit ===
+- [Rapid 7 Staged vs Stageless](https://blog.rapid7.com/2015/03/25/stageless-meterpreter-payloads/)
+- [OJ Staged vs Stagless](https://buffered.io/posts/staged-vs-stageless-handlers/)
+- [MetaSploitable 3](https://github.com/rapid7/metasploitable3)
+
 
 === OSCP Prep ==
 - [test](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440)
