@@ -6,6 +6,7 @@
 - [SecuritySift](https://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/)
 - [RCESecurity Example](https://www.rcesecurity.com/2011/11/buffer-overflow-a-real-world-example/)
 - [Doyler CrossFire Exemple](https://www.doyler.net/security-not-included/crossfire-buffer-overflow-linux-exploit)
+- [EasyRM MP3 Exemple](https://samsclass.info/127/proj/easymp3-with-aslr.htm)
 
 
 === PrivEsc ===
