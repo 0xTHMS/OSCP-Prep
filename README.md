@@ -3,6 +3,7 @@
 === Expoit dev ===
 - [French but very good from basics and very simple exemple](https://www.root-me.org/fr/Documentation/Applicatif/Buffer-Overflow-et-shellcodes-sous-windows)
 - [French very simple with gdb](https://zestedesavoir.com/articles/143/exploitez-votre-premier-stack-based-overflow/)
+- [English basic perfect](https://www.coengoedegebure.com/buffer-overflow-attacks-explained/)
 - [FuzzySec](https://www.fuzzysecurity.com/tutorials/expDev/1.html)
 - [Corelan](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 - [SecuritySift](https://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/)
