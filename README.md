@@ -1,12 +1,15 @@
 # OSCP-Prep
 
 === Expoit dev ===
+- [French but very good from basics and very simple exemple](https://www.root-me.org/fr/Documentation/Applicatif/Buffer-Overflow-et-shellcodes-sous-windows)
+- [French very simple with gdb](https://zestedesavoir.com/articles/143/exploitez-votre-premier-stack-based-overflow/)
 - [FuzzySec](https://www.fuzzysecurity.com/tutorials/expDev/1.html)
 - [Corelan](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 - [SecuritySift](https://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/)
 - [RCESecurity Example](https://www.rcesecurity.com/2011/11/buffer-overflow-a-real-world-example/)
 - [Doyler CrossFire Exemple](https://www.doyler.net/security-not-included/crossfire-buffer-overflow-linux-exploit)
 - [EasyRM MP3 Exemple](https://samsclass.info/127/proj/easymp3-with-aslr.htm)
+
 
 
 === PrivEsc ===
