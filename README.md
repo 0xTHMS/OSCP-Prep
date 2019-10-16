@@ -16,6 +16,7 @@
 
 === PrivEsc ===
 - [FuzzySec PrivEsc](http://www.fuzzysecurity.com/tutorials/16.html)
+- [SUID binaries](https://www.riccardoancarani.it/exploting-setuid-setgid-binaries/)
 
 === MetaSploit ===
 - [Rapid 7 Staged vs Stageless](https://blog.rapid7.com/2015/03/25/stageless-meterpreter-payloads/)
