@@ -24,7 +24,10 @@
 - [MetaSploitable 3](https://github.com/rapid7/metasploitable3)
 
 
-=== OSCP Prep ==
+=== OSCP Prep ===
 - [test](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440)
 - [Abatchy](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
 - [Detailed](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+
+=== MISC ===
+- [HackTricks book](https://book.hacktricks.xyz/) Awesome. Contains everything.
