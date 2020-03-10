@@ -13,10 +13,11 @@
 - [EasyRM MP3 Exemple](https://samsclass.info/127/proj/easymp3-with-aslr.htm)
 
 
-
 === PrivEsc ===
+- [LPE Workshop](https://github.com/sagishahar/lpeworkshop) 
 - [FuzzySec PrivEsc](http://www.fuzzysecurity.com/tutorials/16.html)
 - [SUID binaries](https://www.riccardoancarani.it/exploting-setuid-setgid-binaries/)
+
 
 === MetaSploit ===
 - [Rapid 7 Staged vs Stageless](https://blog.rapid7.com/2015/03/25/stageless-meterpreter-payloads/)
@@ -24,10 +25,14 @@
 - [MetaSploitable 3](https://github.com/rapid7/metasploitable3)
 
 
-=== OSCP Prep ===
-- [test](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440)
+=== OSCP Prep Guides ===
+- [HakLuke](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440)
 - [Abatchy](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
 - [Detailed](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 
-=== MISC ===
+=== OSCP-like boxes ===
+- [HTB Boxes](https://www.reddit.com/r/oscp/comments/alf4nf/oscp_like_boxes_on_hack_the_box_credit_tj_null_on/)
+- [TryHackMe OSCP Path](https://tryhackme.com/paths)
+
+=== MISC / Holy grail? ===
 - [HackTricks book](https://book.hacktricks.xyz/) Awesome. Contains everything.
